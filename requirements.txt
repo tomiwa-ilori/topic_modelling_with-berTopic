@@ -1,0 +1,4 @@
+umap-learn
+pandas
+matplotlib
+sentence_transformers
